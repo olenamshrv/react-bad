@@ -1,0 +1,18 @@
+.main {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+}
+
+.label {
+	margin-right: 4px;
+	font-weight: bold;
+}
+
+.text {
+	font-weight: bold;
+}
+
+.alert {
+	color: indianred !important;
+}

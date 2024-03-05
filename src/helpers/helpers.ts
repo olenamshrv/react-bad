@@ -1,0 +1,1 @@
+export { findMaxSequence } from './find-max-sequence.helper';
